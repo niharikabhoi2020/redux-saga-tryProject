@@ -1,0 +1,3 @@
+export const COUNTER_CHANGE = 'COUNTER_CHANGE';
+
+export const FETCH_SPORTS_LIST = 'FETCH_SPORTS_LIST';
